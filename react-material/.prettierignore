@@ -1,0 +1,10 @@
+src/reportWebVitals.ts
+node_modules
+public
+/src/App.test.tsx
+.prettierignore
+.prettierrc
+.editorconfig
+.eslintrc.json
+.gitignore
+src/**.css
