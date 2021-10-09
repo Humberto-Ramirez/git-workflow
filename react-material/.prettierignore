@@ -1,0 +1,7 @@
+src/reportWebVitals.ts
+node_modules
+public
+.prettierignore
+.prettierrc
+.eslintrc.json
+**/*.css
